@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xuechong/workspace/HDMAP/Astar/demo/main.cpp
+pathFinder/pathFinder.h
+/home/xuechong/workspace/HDMAP/Astar/demo/pathFinder/pathFinder.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+
+/home/xuechong/workspace/HDMAP/Astar/demo/pathFinder/pathFinder.h
+vector
+-
+
